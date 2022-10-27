@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vamsi Krishna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsikrishna-07&label=Profile%20views&color=0e75b6&style=flat" alt="vamsikrishna-07" /> </p>
+<p align="left"> <img src="old.jpg" alt="vamsikrishna-07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamsikrishna-07" alt="vamsikrishna-07" /></a> </p>
 
