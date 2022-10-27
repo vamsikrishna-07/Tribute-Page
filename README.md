@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vamsi Krishna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<h1>Assignment-1 HTML CSS</h1>
 <p align="left"> <img src="old.jpg" alt="vamsikrishna-07" /> </p>
+<br/>
+<h1>Assignment-2 Bootstrap</h1>
+<p align="left"> <img src="new.jpg" alt="vamsikrishna-07" /> </p>
 
+<br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamsikrishna-07" alt="vamsikrishna-07" /></a> </p>
 
 - 🔭 I’m currently working on [Html Css](https://vamsikrishna-07.github.io/Tribute-Page/home.html)
